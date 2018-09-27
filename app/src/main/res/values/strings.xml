@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewGroups</string>
+    <string name="casa_cambio">CASA DE CAMBIO</string>
+    <string-array name="lista_cambio">
+        <item>SELECCIONE</item>
+        <item>SOLES A DÓLARES</item>
+        <item>DÓLARES A SOLES</item>
+    </string-array>
+</resources>
